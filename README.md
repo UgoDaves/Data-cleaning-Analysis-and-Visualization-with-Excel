@@ -3,3 +3,4 @@ The objective is to perform data cleaning with Excel, create some visualizations
 This analysis will encompass a range of SQL queries, to investigate patterns, correlations, and trends within the data. 
 The ultimate goal is to provide a thorough examination of various facets such as customer behavior, product performance, and regional dynamics. 
 This data-driven approach will contribute to informed decision-making and strategic planning for optimizing business processes and enhancing overall performance.
+please refer to the project section.
